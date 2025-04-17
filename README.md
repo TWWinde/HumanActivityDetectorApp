@@ -1,6 +1,9 @@
 # 🧠 HumanActivityDetector
 
 **HumanActivityClassifier** is a SwiftUI-based iOS application for real-time human activity recognition using CoreMotion sensor data and a CoreML model. The app collects motion data, predicts activities with a sliding window mechanism, and visualizes sensor readings using animated line charts in a modern and elegant UI.
+    I first collect the data using HumanActivityRecoderApp [HumanActivityRecoderApp](https://github.com/TWWinde/HumanActivityRecoderApp)
+    then train the model uisng [HumanActivityRecoderApp](https://github.com/TWWinde/Human_Activity_Recognition/tree/pytorch_train_with_my_data)
+    after that I developed the app and deploy the model on IOS
 
 ---
 
