@@ -82,7 +82,7 @@ Simple and intuitive UI with clear buttons to start and stop recording activitie
 
 | Prediction Selection| Prediction Selection | Stop Predicition |
 | ---------------| --------------- | --------------------- |
-| ![Start Page](images/openapp.jpg)| ![Prediction](images/prediction.jpg) | ![output](images/stopprediction.jpg) |
+| ![Start Page](images/openapp.jpg)| ![Prediction](images/prediction.jpeg) | ![output](images/stopprediction.jpeg) |
 
 
 ---
