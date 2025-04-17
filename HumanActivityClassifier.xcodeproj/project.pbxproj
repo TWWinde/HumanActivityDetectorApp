@@ -6,14 +6,24 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		AA43FD832DB18E0B0003907D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AA43FD812DB18DFA0003907D /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		AA43FD442DB1715D0003907D /* HumanActivityClassifier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HumanActivityClassifier.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA43FD812DB18DFA0003907D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		AA43FD462DB1715D0003907D /* HumanActivityClassifier */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HumanActivityClassifier;
+			sourceTree = "<group>";
+		};
+		AA43FD872DB192610003907D /* images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +44,8 @@
 			children = (
 				AA43FD462DB1715D0003907D /* HumanActivityClassifier */,
 				AA43FD452DB1715D0003907D /* Products */,
+				AA43FD812DB18DFA0003907D /* README.md */,
+				AA43FD872DB192610003907D /* images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +74,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				AA43FD462DB1715D0003907D /* HumanActivityClassifier */,
+				AA43FD872DB192610003907D /* images */,
 			);
 			name = HumanActivityClassifier;
 			packageProductDependencies = (
@@ -109,6 +122,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA43FD832DB18E0B0003907D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
